@@ -5,15 +5,6 @@ This project creates an algorithm that automatically detects candidate nodules a
 The algorithm is summarized by the following framework:
 ![Lung nodule detection and classification](framework.gif)
 
-## Run remotely without installation
-Jupyter notebooks can be accessed on this remote server that contains all of the necessary packages, data, and hardware (6 core Xeon @ 4GHz, 24GB RAM, NVIDIA GTX 1070 + GTX 970 graphics card).
-
-[https://astro.myftp.biz:62900/notebooks](https://astro.myftp.biz:62900/notebooks)
-
-password: lungct
-
-*If notified about encrpytion issues, click advanced and add exception.*
-
 ## Installation
 ### Required packages
 * anaconda3
